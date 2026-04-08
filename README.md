@@ -19,6 +19,8 @@ Currently building **Prepzena** — a full-stack EdTech SaaS platform helping CS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-000000?style=flat-square&logoColor=white)
 
 ### State, Validation & Auth
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
@@ -38,10 +40,10 @@ Currently building **Prepzena** — a full-stack EdTech SaaS platform helping CS
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Prepzena** | Full-stack EdTech SaaS with notes, coding practice, quizzes, PYQs & payments integration | Next.js · Clerk · PostgreSQL · Prisma · Cashfree | [Live](https://prepzena.vercel.app/) |
-| **Cybergram** | Cybersecurity platform with real-time chat and role-based access control | React · Node · WebSockets · JWT | [Live](https://cybergram.in/) |
+| **Prepzena** | Full-stack EdTech SaaS with notes, coding practice, quizzes, PYQs & payments integration | Next.js · Clerk · PostgreSQL · Prisma · Supabase · Cashfree | [Live](https://prepzena.vercel.app/) |
+| **Cybergram** | Cybersecurity platform with real-time chat and role-based access control | React · Node · WebSockets · JWT · Convex | [Live](https://cybergram.in/) |
 | **Factory Flow** | Industrial analytics dashboard that reduced manual reporting by ~60% | React · Node · PostgreSQL · Prisma · ECharts | [GitHub](https://github.com/shubh791/factory-flow-dbms) |
-| **Next.js Todo App** | Full-stack task manager with Server Actions & optimized state handling | Next.js · Zustand · TanStack Query · Zod | [GitHub](https://github.com/shubh791/nextjs-todo-app) |
+| **Next.js Todo App** | Full-stack task manager with Server Actions & optimized state handling | Next.js · Zustand · TanStack Query · Zod · MongoDB | [GitHub](https://github.com/shubh791/nextjs-todo-app) |
 
 ---
 
